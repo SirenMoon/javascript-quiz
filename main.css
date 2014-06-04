@@ -1,0 +1,56 @@
+body {
+ background: url(teen_wolf_wallpaper_by_loupii-d7b1tj6.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-weight:bold;
+  color:black;
+}
+
+#logo{
+	text-align: center;
+	height:150px;
+	width:300px;
+	 display: block;
+	float:right;
+    padding-bottom:0.5em;
+}
+
+h1 {
+	text-align: center;
+	color:white;
+}
+
+#container {
+	background-color:rgba(255, 255, 255, 0.5);
+	margin:40px;
+	padding:0.5em;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px; /* future proofing */
+	height:20em;
+	font-size:1.5em;
+
+}
+
+
+#answer {
+	margin-top:1em;
+	color:white !important;
+}
+
+#quizpics{
+	text-align: center;
+	height:175px;
+	width:275px;
+	 display: block;
+	float:right;
+    padding-bottom:0.5em;
+    margin:50px;
+    clear:both;
+}
+
+#question{
+	margin-top:1em;
+}
